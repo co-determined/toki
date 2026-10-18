@@ -1,0 +1,77 @@
+[
+  {
+    "model": "google/gemini-3.7-flash",
+    "ok": true,
+    "text": "1. It looks like an anthropomorphic number \"7\" or an animated paint roller.\n2. It feels around 4 to 6 years old.\n3. It loves arts and crafts, painting, and counting games.\n4. It is probably scared of messes, getting dirty, or heights.\n5. It reminds me of a *Numberblocks* character, a fuzzy paint roller, and a plastic clothes hanger.\n6. **Friendly.** The wide round eyes, bright smile, and welcoming waving gesture make it look cheerful and non-threatening.\n7. The way the mouth cuts completely across the face makes the upper head look like a separate, floating block.",
+    "usage": {
+      "completion_tokens": 601,
+      "prompt_tokens": 1239,
+      "total_tokens": 1840,
+      "completion_tokens_details": {
+        "reasoning_tokens": 462
+      },
+      "trafficType": "ON_DEMAND",
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0,
+        "audio_cached_tokens": 0
+      },
+      "web_search": 0,
+      "web_search_queries": 0,
+      "tool_use": 0,
+      "cost": "0.006366",
+      "cost_details": {
+        "prompt": "0.0018585",
+        "completion": "0.0045075",
+        "web_search": "0",
+        "input_cache_read": "0"
+      }
+    }
+  },
+  {
+    "model": "qwen/qwen3.8-flash",
+    "ok": true,
+    "text": "1. A fuzzy white felt puppet shaped like the number 7 (or a bent coat-hanger / umbrella handle) with a curved hook sprouting from its head.\n\n2. About 3 or 4 — the googly eyes, open grin and eager wave give it toddler energy.\n\n3. Being looked at and saying hi; it seems to love waving and being the center of attention.\n\n4. Probably being straightened out or having its hook pulled — and that flat black mouth-hole looks like it might swallow itself.\n\n5. *Numberblocks* (the living-digit idea), a felt coat-hanger, and the googly-eyed M&M's characters.\n\n6. Friendly — the raised waving hand and big round eyes read as \"hello!\" even if the wide dark mouth is a touch blank.\n\n7. The head-hook reads as a coat-hanger hook, so the whole thing looks like an object you hang up rather than a creature that's alive and waving; it fights the gesture.",
+    "usage": {
+      "completion_tokens": 924,
+      "prompt_tokens": 551,
+      "total_tokens": 1475,
+      "completion_tokens_details": {
+        "reasoning_tokens": 714
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "image_tokens": 344,
+        "text_tokens": 207
+      },
+      "cost": "0.00052244",
+      "cost_details": {
+        "prompt": "0.00008816",
+        "completion": "0.00043428",
+        "input_cache_read": "0"
+      }
+    }
+  },
+  {
+    "model": "z-ai/glm-5.3-flash",
+    "ok": true,
+    "text": "1. A fuzzy plush blob-monster — honestly it reads like a living sock or mitten with eyes and a curly sprout on top.\n\n2. Toddler-ish, maybe 3–5. Big head, wobbly body, over-excited waving — all very \"little kid energy.\"\n\n3. Greeting people. It's mid-wave with its mouth flung open like it just spotted someone it adores.\n\n4. Being put down or left behind — the curl on top looks like a hook, so it reads as something that gets hung up or carried around, and the open mouth could flip from joy to \"don't go!\" pretty easily.\n\n5. Grover from Sesame Street, the characters from Yo Gabba Gabba, and the numeral 7 — the silhouette is basically a seven with a face.\n\n6. Friendly. Big smile, direct eye contact, waving, soft-looking texture — nothing about it reads as threatening to a small kid.\n\n7. The body doesn't make sense — it tapers into one tail-like limb with no feet, so the character looks like it's dangling or falling rather than standing, which undercuts the confident wave.",
+    "usage": {
+      "completion_tokens": 1050,
+      "prompt_tokens": 593,
+      "total_tokens": 1643,
+      "completion_tokens_details": {
+        "reasoning_tokens": 810
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost": "0.00061395",
+      "cost_details": {
+        "prompt": "0.00008895",
+        "completion": "0.000525",
+        "input_cache_read": "0"
+      }
+    }
+  }
+]

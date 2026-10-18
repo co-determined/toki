@@ -1,0 +1,77 @@
+[
+  {
+    "model": "google/gemini-3.7-flash",
+    "ok": true,
+    "text": "1. A large blue furry creature holding a chocolate chip cookie is talking from the street to a cream-colored character leaning over a balcony, offering to describe what the cookie tastes like.\n\n2. It looks like an anthropomorphic plush molar tooth or marshmallow with big cartoon eyes, appearing to be around 4 to 6 years old.\n\n3. It wants to listen to the explanation and experience what the cookie is like since it cannot eat it itself.\n\n4. It feels curious, attentive, and gently engaged, though slightly wistful.\n\n5. A dental health cartoon tooth mascot, a marshmallow/pillow, and a *Sesame Street*-style puppet.\n\n6. **Friendly**, because it has large rounded eyes, soft plush textures, and a gentle, smiling expression.\n\n7. The blue monster is viewed entirely from behind as a dark silhouette/lump, making the speech bubble attachment and character interaction feel visually awkward and one-sided.",
+    "usage": {
+      "completion_tokens": 774,
+      "prompt_tokens": 1277,
+      "total_tokens": 2051,
+      "completion_tokens_details": {
+        "reasoning_tokens": 580
+      },
+      "trafficType": "ON_DEMAND",
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0,
+        "audio_cached_tokens": 0
+      },
+      "web_search": 0,
+      "web_search_queries": 0,
+      "tool_use": 0,
+      "cost": "0.0077205",
+      "cost_details": {
+        "prompt": "0.0019155",
+        "completion": "0.005805",
+        "web_search": "0",
+        "input_cache_read": "0"
+      }
+    }
+  },
+  {
+    "model": "qwen/qwen3.8-flash",
+    "ok": true,
+    "text": "1. A shaggy blue puppet, seen from behind, dangles a chocolate-chip cookie and offers to \"describe\" it to the cream character, who is perched on a brick ledge watching.\n\n2. A soft, felt/plush blob — round and stubby like a cartoon tooth or a marshmallow — with big glossy eyes and a dark slot-mouth; reads as a toddler, maybe 2–3.\n\n3. To hear the cookie described / to get the cookie — it's leaning in, hands clasped, fully focused on the speaker.\n\n4. Delighted and eager; wide-eyed, open smiling mouth, attentive.\n\n5. A Colgate-style cartoon tooth, a marshmallow/Peep, and a plush Fingerling toy.\n\n6. Friendly — big round shiny eyes, soft rounded body, and a smiling mouth are exactly the cues a 4-year-old reads as \"nice.\"\n\n7. The cream character has no legs or feet — its body just ends flat against the ledge, so it looks sliced off or floating rather than standing.",
+    "usage": {
+      "completion_tokens": 992,
+      "prompt_tokens": 2780,
+      "total_tokens": 3772,
+      "completion_tokens_details": {
+        "reasoning_tokens": 768
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "image_tokens": 2548,
+        "text_tokens": 232
+      },
+      "cost": "0.00091104",
+      "cost_details": {
+        "prompt": "0.0004448",
+        "completion": "0.00046624",
+        "input_cache_read": "0"
+      }
+    }
+  },
+  {
+    "model": "z-ai/glm-5.3-flash",
+    "ok": true,
+    "text": "1. A big blue furry monster is holding up a chocolate chip cookie and talking to the cream character, who's perched on a brick ledge listening.\n\n2. A soft, marshmallow-shaped plush creature with a navy swoosh of hair, mitten hands, and a dark band around its middle — reads as a little kid, maybe 4–6.\n\n3. The cookie — leaning forward with hands clasped and eyes locked on it.\n\n4. Excited and eager, with a hint of wide-eyed surprise.\n\n5. The Stay Puft Marshmallow Man, the filling of an ice cream sandwich (or a s'more), and a background Muppet/Fraggle.\n\n6. Friendly — big round eyes, soft rounded body, and an open smile; nothing sharp or looming about it.\n\n7. The mouth doesn't read as a mouth — the dark band wraps around the whole body like a seam, sash, or hoodie trim, so the face is confusing at first glance.",
+    "usage": {
+      "completion_tokens": 1140,
+      "prompt_tokens": 4392,
+      "total_tokens": 5532,
+      "completion_tokens_details": {
+        "reasoning_tokens": 937
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost": "0.0012288",
+      "cost_details": {
+        "prompt": "0.0006588",
+        "completion": "0.00057",
+        "input_cache_read": "0"
+      }
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "model": "google/gemini-3.7-flash",
+    "ok": true,
+    "text": "1. A large blue furry creature on the left is holding a chocolate chip cookie and offering to describe its taste to a smaller puppet watching from a balcony.\n2. It looks like a soft, felt-covered plush block or marshmallow-shaped creature that appears to be around 3 to 5 years old.\n3. It wants to eat the cookie (or learn what it tastes like) and engage with the blue character.\n4. It is feeling curious, excited, and happy.\n5. A toasted marshmallow, a plush toaster/appliance, and Sackboy from *LittleBigPlanet*.\n6. Friendly, because of its soft texture, wide cartoonish eyes, and bright, welcoming smile.\n7. The blue character on the left is essentially an unrendered dark silhouette with no visible facial features, which clashes with the fully lit, 3D look of the cream character.",
+    "usage": {
+      "completion_tokens": 729,
+      "prompt_tokens": 1277,
+      "total_tokens": 2006,
+      "completion_tokens_details": {
+        "reasoning_tokens": 546
+      },
+      "trafficType": "ON_DEMAND",
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0,
+        "audio_cached_tokens": 0
+      },
+      "web_search": 0,
+      "web_search_queries": 0,
+      "tool_use": 0,
+      "cost": "0.007383",
+      "cost_details": {
+        "prompt": "0.0019155",
+        "completion": "0.0054675",
+        "web_search": "0",
+        "input_cache_read": "0"
+      }
+    }
+  },
+  {
+    "model": "qwen/qwen3.8-flash",
+    "ok": true,
+    "text": "1. A big shaggy blue monster stands with its back to us, holding up a chocolate chip cookie and talking to a small white creature perched on a brick ledge, who's listening eagerly.\n\n2. A soft, felt-textured white blob with huge round eyes, a dark band for a mouth, a little tuft on top, and dark mitten-hands — like a plush egg or marshmallow. Reads as a toddler, maybe 3–4.\n\n3. It wants the cookie — or at least the story about it; it's leaning in with hands out, totally hooked on what the blue one's saying.\n\n4. Delighted and curious — wide-eyed, open-mouthed, the kind of happy \"tell me more!\" feeling.\n\n5. Baymax (the dark mouth-band + big eyes), a Dumb Ways to Die character, and a squishy plush toy.\n\n6. Friendly — round soft body and a smile are welcoming, though the dead-staring googly eyes and black hands might read as a little blank/odd to some kids.\n\n7. The white character has no legs — its body just ends in a single stubby peg that hovers over the ledge, so it looks glued or floating rather than standing.",
+    "usage": {
+      "completion_tokens": 1208,
+      "prompt_tokens": 2780,
+      "total_tokens": 3988,
+      "completion_tokens_details": {
+        "reasoning_tokens": 944
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "image_tokens": 2548,
+        "text_tokens": 232
+      },
+      "cost": "0.00101256",
+      "cost_details": {
+        "prompt": "0.0004448",
+        "completion": "0.00056776",
+        "input_cache_read": "0"
+      }
+    }
+  },
+  {
+    "model": "z-ai/glm-5.3-flash",
+    "ok": true,
+    "text": "1. **What's happening:** A big blue furry monster (seen from behind) is holding up a chocolate chip cookie and enthusiastically describing it to the cream character, who apparently can't eat cookies.\n\n2. **The cream character:** A soft, rounded-square plush creature — like a marshmallow or tofu block — with googly eyes, a wide dark mouth-band, tiny mitten hands, and a little navy hair tuft. Very childlike; reads as maybe 3–5 years old (big head, big eyes, small hands, bashful posture).\n\n3. **What it wants:** Honestly, it looks like it's shrugging and leaning back — it wants to politely decline or get out of the conversation, not to be sold on the cookie.\n\n4. **Feeling:** Confused and a bit sheepish/overwhelmed — like a shy kid being pressured by an overeager friend.\n\n5. **Reminds me of:** A Stay Puft marshmallow, a StoryBot, and a cartoon tooth.\n\n6. **4-year-old's reaction:** Friendly, mostly — googly eyes and a hair tuft read as cute. Though the huge flat dark mouth-band is slightly uncanny, like a sewn-on grin, so a sensitive kid might pause.\n\n7. **What doesn't work:** The cream character's placement — its lower half just vanishes into the ledge, so it looks like it's stuck in a hole or sinking into the wall rather than standing somewhere. (The yellow fringing on the blue fur is also a close second — it reads like a bad cutout edge.)",
+    "usage": {
+      "completion_tokens": 1807,
+      "prompt_tokens": 4392,
+      "total_tokens": 6199,
+      "completion_tokens_details": {
+        "reasoning_tokens": 1477
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost": "0.0015623",
+      "cost_details": {
+        "prompt": "0.0006588",
+        "completion": "0.0009035",
+        "input_cache_read": "0"
+      }
+    }
+  }
+]

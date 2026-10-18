@@ -1,0 +1,77 @@
+[
+  {
+    "model": "google/gemini-3.7-flash",
+    "ok": true,
+    "text": "1. A dark, furry creature is holding up a cookie and talking to a cream-colored puppet that is leaning excitedly over a brick rooftop ledge.\n2. It looks like an anthropomorphic plush pillow or soft suitcase with a handle on top, appearing around 3 to 5 years old.\n3. It wants to get and eat the chocolate chip cookie.\n4. Excited, eager, and full of happy anticipation.\n5. A luggage tag/suitcase, a marshmallow/Pillow Pet, and a classic *Sesame Street* puppet extra.\n6. Friendly, because of its soft felt texture, wide welcoming eyes, and open, happy smile.\n7. The character on the left is a nearly pitch-black silhouette, which feels visually flat and oddly menacing compared to the bright, fully-rendered scene.",
+    "usage": {
+      "completion_tokens": 746,
+      "prompt_tokens": 1277,
+      "total_tokens": 2023,
+      "completion_tokens_details": {
+        "reasoning_tokens": 577
+      },
+      "trafficType": "ON_DEMAND",
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0,
+        "audio_cached_tokens": 0
+      },
+      "web_search": 0,
+      "web_search_queries": 0,
+      "tool_use": 0,
+      "cost": "0.0075105",
+      "cost_details": {
+        "prompt": "0.0019155",
+        "completion": "0.005595",
+        "web_search": "0",
+        "input_cache_read": "0"
+      }
+    }
+  },
+  {
+    "model": "qwen/qwen3.8-flash",
+    "ok": true,
+    "text": "1. A dark, shaggy silhouette dangles a cookie and taunts the cream puppet with it, refusing to hand it over but offering to \"tell\" about it; the cream character lunges toward the cookie with both hands out.\n\n2. A soft, fuzzy white blob-puppet with a question-mark curl on its head—reads like a marshmallow or little ghost with a dog-like eager face; feels like a preschooler, around 4–5.\n\n3. That cookie, immediately—full reach, eyes locked on it.\n\n4. Eager, hopeful, delighted; open and wanting with zero suspicion.\n\n5. Cookie Monster (the dark one, basically), a Teletubby, and the Stay Puft Marshmallow Man / a Pac-Man ghost.\n\n6. Friendly—round glossy eyes, plush fuzzy body, big open smile, no teeth or claws; a 4-year-old would want to hug it.\n\n7. The cream character's outstretched arm/hand looks detached and floats near the cookie, and the ledge cuts off the body so it's unclear how it's even standing there.",
+    "usage": {
+      "completion_tokens": 842,
+      "prompt_tokens": 2780,
+      "total_tokens": 3622,
+      "completion_tokens_details": {
+        "reasoning_tokens": 606
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "image_tokens": 2548,
+        "text_tokens": 232
+      },
+      "cost": "0.00084054",
+      "cost_details": {
+        "prompt": "0.0004448",
+        "completion": "0.00039574",
+        "input_cache_read": "0"
+      }
+    }
+  },
+  {
+    "model": "z-ai/glm-5.3-flash",
+    "ok": true,
+    "text": "1. A big dark furry creature is offering (or teasing with) a chocolate-chip cookie to a cream fuzzy puppet standing on a brick balcony at dusk, while speaking to it via the speech bubble.\n\n2. A plush, muppet-style fuzzball — cream loaf-shaped body, googly eyes, wide open smiling mouth, navy arms, and a single navy curl sticking up from its head like an antenna. It reads young, maybe 4–6, like a preschooler.\n\n3. The cookie. It's leaning and reaching straight for it, mouth already open.\n\n4. Excited and eager, maybe with a hint of hesitation — the hand pulled back to its chest reads like it wants the cookie but isn't sure it should grab it.\n\n5. Cookie Monster (cookies + googly eyes + fuzz), a Fraggle Rock / Sesame Street-style Muppet generally, and a Squishmallow plush.\n\n6. Friendly. Big round eyes, open smile, soft fuzzy texture, warm light — all standard preschool \"safe\" signals. The huge dark open mouth might give a half-second pause, but overall friendly.\n\n7. The line \"BUT ME CAN TELL YOU COOKIE!\" doesn't parse — I can't figure out what the dark character is actually offering to do, which stalls the whole scene.",
+    "usage": {
+      "completion_tokens": 2371,
+      "prompt_tokens": 4392,
+      "total_tokens": 6763,
+      "completion_tokens_details": {
+        "reasoning_tokens": 2103
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost": "0.0018443",
+      "cost_details": {
+        "prompt": "0.0006588",
+        "completion": "0.0011855",
+        "input_cache_read": "0"
+      }
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "family": "monster",
+  "n": 1,
+  "seed": 5
+ },
+ {
+  "family": "monster",
+  "n": 2,
+  "seed": 22
+ },
+ {
+  "family": "monster",
+  "n": 3,
+  "seed": 39
+ },
+ {
+  "family": "monster",
+  "n": 4,
+  "seed": 56
+ },
+ {
+  "family": "speech bubble",
+  "n": 5,
+  "seed": 1005
+ },
+ {
+  "family": "speech bubble",
+  "n": 6,
+  "seed": 1022
+ },
+ {
+  "family": "speech bubble",
+  "n": 7,
+  "seed": 1039
+ },
+ {
+  "family": "speech bubble",
+  "n": 8,
+  "seed": 1056
+ },
+ {
+  "family": "thought cloud",
+  "n": 9,
+  "seed": 2005
+ },
+ {
+  "family": "thought cloud",
+  "n": 10,
+  "seed": 2022
+ },
+ {
+  "family": "thought cloud",
+  "n": 11,
+  "seed": 2039
+ },
+ {
+  "family": "thought cloud",
+  "n": 12,
+  "seed": 2056
+ },
+ {
+  "family": "anything muppet",
+  "n": 13,
+  "seed": 3005
+ },
+ {
+  "family": "anything muppet",
+  "n": 14,
+  "seed": 3022
+ },
+ {
+  "family": "anything muppet",
+  "n": 15,
+  "seed": 3039
+ },
+ {
+  "family": "anything muppet",
+  "n": 16,
+  "seed": 3056
+ },
+ {
+  "family": "question mark",
+  "n": 17,
+  "seed": 4005
+ },
+ {
+  "family": "question mark",
+  "n": 18,
+  "seed": 4022
+ },
+ {
+  "family": "question mark",
+  "n": 19,
+  "seed": 4039
+ },
+ {
+  "family": "question mark",
+  "n": 20,
+  "seed": 4056
+ },
+ {
+  "family": "book",
+  "n": 21,
+  "seed": 5005
+ },
+ {
+  "family": "book",
+  "n": 22,
+  "seed": 5022
+ },
+ {
+  "family": "book",
+  "n": 23,
+  "seed": 5039
+ },
+ {
+  "family": "book",
+  "n": 24,
+  "seed": 5056
+ },
+ {
+  "family": "paper lantern",
+  "n": 25,
+  "seed": 6005
+ },
+ {
+  "family": "paper lantern",
+  "n": 26,
+  "seed": 6022
+ },
+ {
+  "family": "paper lantern",
+  "n": 27,
+  "seed": 6039
+ },
+ {
+  "family": "paper lantern",
+  "n": 28,
+  "seed": 6056
+ },
+ {
+  "family": "jellyfish",
+  "n": 29,
+  "seed": 7005
+ },
+ {
+  "family": "jellyfish",
+  "n": 30,
+  "seed": 7022
+ },
+ {
+  "family": "jellyfish",
+  "n": 31,
+  "seed": 7039
+ },
+ {
+  "family": "jellyfish",
+  "n": 32,
+  "seed": 7056
+ },
+ {
+  "family": "chorus (many at once)",
+  "n": 33,
+  "seed": 8005
+ },
+ {
+  "family": "chorus (many at once)",
+  "n": 34,
+  "seed": 8022
+ },
+ {
+  "family": "chorus (many at once)",
+  "n": 35,
+  "seed": 8039
+ },
+ {
+  "family": "chorus (many at once)",
+  "n": 36,
+  "seed": 8056
+ },
+ {
+  "family": "screen robot (control)",
+  "n": 37,
+  "seed": 9005
+ },
+ {
+  "family": "screen robot (control)",
+  "n": 38,
+  "seed": 9022
+ },
+ {
+  "family": "screen robot (control)",
+  "n": 39,
+  "seed": 9039
+ },
+ {
+  "family": "screen robot (control)",
+  "n": 40,
+  "seed": 9056
+ },
+ {
+  "family": "sheet ghost (control)",
+  "n": 41,
+  "seed": 10005
+ },
+ {
+  "family": "sheet ghost (control)",
+  "n": 42,
+  "seed": 10022
+ },
+ {
+  "family": "sheet ghost (control)",
+  "n": 43,
+  "seed": 10039
+ },
+ {
+  "family": "sheet ghost (control)",
+  "n": 44,
+  "seed": 10056
+ },
+ {
+  "family": "lightbulb (control)",
+  "n": 45,
+  "seed": 11005
+ },
+ {
+  "family": "lightbulb (control)",
+  "n": 46,
+  "seed": 11022
+ },
+ {
+  "family": "lightbulb (control)",
+  "n": 47,
+  "seed": 11039
+ },
+ {
+  "family": "lightbulb (control)",
+  "n": 48,
+  "seed": 11056
+ }
+]
