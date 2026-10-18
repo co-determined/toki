@@ -37,7 +37,7 @@ The full sleeve made the silhouette a **7**: two of the three readers named *Num
   - Thumb's *Elmo's speech balloon* bit is added.
 
 ### Cold read 3 (two v3 frames)
-The story landed. On the first frame, one reader wrote *"It wants to listen to the explanation and experience what the cookie is like since it cannot eat it itself,"* and called its feeling *"curious, attentive, and gently engaged, though slightly wistful."* Readers saw listening on both frames, where v1 got keep-away. Ages came back as 3–5, 3–4 and 4–6, and every reader said friendly. On the second frame, two readers, unprompted, compared Toki to friendly robots and bots: Baymax and a StoryBot.
+The story landed. On the first frame, one reader wrote *"It wants to listen to the explanation and experience what the cookie is like since it cannot eat it itself,"* and called its feeling *"curious, attentive, and gently engaged, though slightly wistful."* Readers saw the describing-and-listening story on both frames, where v1 got keep-away. Five of the six age readings fell between 3 and 6 (the sixth said 2–3), and every reader said friendly. On the second frame, two readers, unprompted, compared Toki to friendly robots and bots: Baymax and a StoryBot.
 
 The final key art combines the camera from one cold-read version with the clasped hands from another. That exact frame wasn't sent out: the dozen calls I'd allowed myself were spent.
 
